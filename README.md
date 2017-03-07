@@ -1,2 +1,2 @@
 # FlappybirdSwift
- a flappybird game writing by swift
+ a flappybird game written in swift
